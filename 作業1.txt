@@ -1,0 +1,14 @@
+<!doctype>
+<html>
+<head>
+<title>D0588724 江達昇</title>
+</head>
+<body>
+<h1>
+我的臉書連結
+</h1>
+<p>
+<a href="https://www.facebook.com/profile.php?id=100002340952163"><img src=".\picture.jpg" alt="FACEBOOK" style="width:300px;height:300px;"></a>
+</p>
+</body>
+</html>
